@@ -24,3 +24,4 @@ Dans notre navigateur, on lance le localhost/Mini-blog/ dans le client.
 
 
 NB : Nous n'avons pas pu faire à temps la suppression des articles dans la partie client, nous en somme absolument désolé
+# miniblogProjet
